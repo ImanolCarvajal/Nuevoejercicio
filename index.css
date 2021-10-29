@@ -1,0 +1,77 @@
+body {
+background-color:rgba(164,197,233,255);
+}
+
+.titulo1 {
+background-color:rgba(164,197,233,255);
+margin-left: purple;
+margin-right: purple;
+}
+
+.caja1 {
+  background-color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.titulo1 {
+color: rgba(93,89,165,255);
+text-align: center;
+text-shadow: 3px -3px 2px white;
+border-bottom: thick solid #5d59a5;
+margin: 0;
+}
+
+
+.globo-naranja {
+background-color: #f28226;
+padding: 1em;
+}
+
+.globo-verde {
+  background-image: url("/home/smx2a-2021/Documents/Layout/Nuevoejercicio/verde.png");
+  padding: 1em;
+  margin-left: 4em;
+  margin-right: 2em;
+
+}
+
+
+.globo-marrón {
+  background-color: rgba(180,84,33,255);
+  padding: 1em;
+  margin-left: 6em;
+  margin-right: 6em;
+}
+
+.globo-verde {
+  background-image: url("/home/smx2a-2021/Documents/Layout/Nuevoejercicio/verde.png");
+
+}
+
+.globo-naranja {
+background-color: #f28226
+
+
+}
+
+.globo-verde {
+  background-image: url("/home/smx2a-2021/Documents/Layout/Nuevoejercicio/verde.png");
+
+}
+
+.globo-marrón {
+  background-color: rgba(180,84,33,255);
+
+}
+
+.globo-verde {
+  background-image: url("/home/smx2a-2021/Documents/Layout/Nuevoejercicio/verde.png");
+
+}
+
+.globo-naranja {
+background-color: #f28226
+
+
+}
